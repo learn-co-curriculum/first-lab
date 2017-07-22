@@ -107,8 +107,6 @@ Submitting a Pull Request is the process of Requesting that the maintainer of th
 
 To do this, in Learn click on the title of the lab to go to your fork on GitHub.
 
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
-
 Then click the green Pull Request button.
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/PR.png" alt="Ironboard Labs Step 4">
@@ -123,4 +121,4 @@ Then click Create pull request button again.
 
 That's it, you're done! Now go back to Learn and you should see the Pull Request flip to green, and the remote build will be kicked off. Once it passes, you will be able to proceed to the Next Lesson.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab' title='Your First Lab'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/first-lab'>First Learn Lab</a> on Learn.co and start learning to code for free.</p>
