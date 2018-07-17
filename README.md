@@ -6,34 +6,34 @@ The goal of this lab is to practice the workflow required to complete a lab and 
 
 To complete this lab you will have to:
 
-1. Fork the lab via github.
+1. Fork the lab via GitHub.
 2. Clone your fork.
 3. Solve the lab
 4. Commit your changes
 5. Push the changes to your fork.
 6. Open a Pull Request from your fork.
 
-## 1. Forking from Github
+## 1. Forking from GitHub
 
 Forking is the process of making your personal copy of the Learn lab on GitHub.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
 
-To get started, in Learn click the GitHub button to go to Flatiron School's copy of the lab on Github.
+To get started, in Learn click the GitHub button to go to Flatiron School's copy of the lab on GitHub.
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/first-lab/GitHub.png" alt="Ironboard Labs Step 0">
 
-Next on Flatiron's Github page for the lab click the Fork button.
+Next on Flatiron's GitHub page for the lab click the Fork button.
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/Fork.png" alt="Ironboard Labs Step 1">
 
-Then select your personal Github account as the location to fork to.
+Then select your personal GitHub account as the location to fork to.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1b.jpg" alt="Ironboard Labs Step 1B">
 
 ## 2. Clone Your Fork
 
-Cloning is the process of making a local copy of the lab from your fork on Github.
+Cloning is the process of making a local copy of the lab from your fork on GitHub.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
